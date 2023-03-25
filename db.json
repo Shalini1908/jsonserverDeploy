@@ -1,6 +1,13 @@
 {
+
+
   "users": [],
 
-  "hotels":[]
+  "hotels":[],
+
+  "movies":[],
+
+  "isbooked":[]
+
 
 }
